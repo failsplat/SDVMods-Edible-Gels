@@ -1,8 +1,8 @@
 {
    "Name": "[PFM] Edible Gels",
    "Author": "Failsplat",
-   "Description": "Machine rules for Edible Gels. Piggybacks off of Artisan Valley's PFM mod.",
-   "Version": "0.1.0",
+   "Description": "Machine rules for Edible Gels.",
+   "Version": "0.1.1",
    "UniqueID": "Failsplat.GelFoodsPFM",
      "UpdateKeys": [],
     "ContentPackFor": {

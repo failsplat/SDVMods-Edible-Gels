@@ -4,8 +4,8 @@
 Items added/to be added by this mod in **BOLD**. Machines or items from other mods are in *Italics*.
 ### Currently Written
 - **Nata de Coco** (*Glass Jar*, Coconut)
-### Ideas/To Do
 - **Nata de Piña** (*Glass Jar*, Pineapple)
+### Ideas/To Do
 - **Aiyu** (crop) -> **Aiyu Jelly** (*Foreign Cask*)
 - **Lemon Aiyu** (Cooking, Aiyu Jelly + Lemon)
 - **Mesona**/仙草 (crop) -> **Grass Jelly** (*Foreign Cask*)
