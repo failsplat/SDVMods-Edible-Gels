@@ -1,0 +1,13 @@
+[
+  {
+      "ProducerName": "Glass Jar",
+      "InputIdentifier": "88",
+      "InputStack": 1,
+      "MinutesUntilReady": 1600,
+      "OutputIdentifier": "Nata de Coco",
+      "InputPriceBased": false,
+      "OutputPriceIncrement": 0,
+      "OutputPriceMultiplier": 0,
+      "Sounds": ["Bubble"],
+  },
+]
