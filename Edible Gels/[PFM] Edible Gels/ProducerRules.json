@@ -21,7 +21,7 @@
   },
   {
       "ProducerName": "Foreign Cask",
-      "InputIdentifier": "Aiyu Husk",
+      "InputIdentifier": "Aiyu Fig Husk",
       "InputStack": 1,
       "MinutesUntilReady": 600,
       "OutputIdentifier": "Aiyu Jelly",
