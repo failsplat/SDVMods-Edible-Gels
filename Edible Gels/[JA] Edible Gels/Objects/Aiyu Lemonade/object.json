@@ -1,0 +1,70 @@
+{
+    "Name": "Aiyu Lemonade",
+    "Description": "Sweet lemonade, crushed ice and soft aiyu jelly make for a refreshing drink!",
+    "Category": "Cooking",
+    "Edibility": 33,
+    "Price": 625,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": "Lemon",
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Aiyu Jelly",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 500,
+    },
+    "NameLocalization":
+    {
+        "default":"Aiyu Lemonade",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags":
+    [
+    "color_yellow",
+    ]
+}

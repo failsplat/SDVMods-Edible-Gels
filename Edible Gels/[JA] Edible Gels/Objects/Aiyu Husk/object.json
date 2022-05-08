@@ -1,9 +1,9 @@
 {
-    "Name": "Nata de Coco",
-    "Description": "A chewy gel made from fermented coconut water. Not much flavor on its own, but is used in desserts to add texture.",
+    "Name": "Aiyu Husk",
+    "Description": "A seed-covered husk of a dried fig-like fruit. Inedible as it is, but releases Aiyu Jelly when soaked in water.",
     "Category": "ArtisanGoods",
-    "Edibility": 5,
-    "Price": 150,
+    "Edibility": -300,
+    "Price": 50,
     "IsColored": false,
     "Recipe": null,
     "EdibleIsDrink": false,
@@ -18,8 +18,8 @@
     },
     "NameLocalization":
     {
-        "default":"Nata de Coco",
-        "es": "Nata de Coco",
+        "default":"Aiyu Husk",
+        //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -47,7 +47,6 @@
     },
     "ContextTags":
     [
-    "edible_gel_item",
-    "color_white",
+    "color_brown",
     ]
 }

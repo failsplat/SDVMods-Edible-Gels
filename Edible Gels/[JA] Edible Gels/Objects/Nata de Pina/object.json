@@ -2,7 +2,7 @@
     "Name": "Nata de Pina",
     "Description": "A golden yellow gel made from fermented pineapple juice. Added to desserts to add a bit of texture and tangy tropical flavor.",
     "Category": "ArtisanGoods",
-    "Edibility": 15,
+    "Edibility": 5,
     "Price": 450,
     "IsColored": false,
     "Recipe": null,
@@ -47,7 +47,7 @@
     },
     "ContextTags":
     [
-    "gel_item",
+    "edible_gel_item",
     "color_gold",
     ]
 }

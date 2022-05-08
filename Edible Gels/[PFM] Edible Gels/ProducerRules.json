@@ -19,4 +19,14 @@
       "InputPriceBased": false,
       "Sounds": ["bubbles"],
   },
+  {
+      "ProducerName": "Foreign Cask",
+      "InputIdentifier": "Aiyu Husk",
+      "InputStack": 1,
+      "MinutesUntilReady": 600,
+      "OutputIdentifier": "Aiyu Jelly",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["bubbles"],
+  },
 ]

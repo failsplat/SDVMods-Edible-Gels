@@ -1,6 +1,6 @@
 {
-    "Name": "Nata de Coco",
-    "Description": "A chewy gel made from fermented coconut water. Not much flavor on its own, but is used in desserts to add texture.",
+    "Name": "Aiyu Jelly",
+    "Description": "A soft pale yellow jelly. Not much flavor on its own, but refreshing to eat.",
     "Category": "ArtisanGoods",
     "Edibility": 5,
     "Price": 150,
@@ -18,8 +18,8 @@
     },
     "NameLocalization":
     {
-        "default":"Nata de Coco",
-        "es": "Nata de Coco",
+        "default":"Aiyu Jelly",
+        //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -38,7 +38,7 @@
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",
@@ -47,7 +47,7 @@
     },
     "ContextTags":
     [
+    "color_gold",
     "edible_gel_item",
-    "color_white",
     ]
 }
