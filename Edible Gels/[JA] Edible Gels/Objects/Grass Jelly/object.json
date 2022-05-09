@@ -10,9 +10,9 @@
     "EdibleBuffs": null,
     "GiftTastes":
     {
-        "Like": ["Krobus", "Caroline"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Vincent", "Jas",],
+        "Love": ["Harvey"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Dwarf", "Willy"],
     },
     "NameLocalization":
     {

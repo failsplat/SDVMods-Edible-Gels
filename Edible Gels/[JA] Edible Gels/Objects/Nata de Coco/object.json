@@ -11,9 +11,9 @@
     "GiftTastes":
     {
         "Love": [],
-        "Like": [],
-        "Neutral": [],
-        "Dislike": [],
+        "Like": ["Haley", "Linus"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+        "Dislike": ["Abigail"],
         "Hate": [],
     },
     "NameLocalization":
