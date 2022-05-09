@@ -29,4 +29,14 @@
       "InputPriceBased": false,
       "Sounds": ["bubbles"],
   },
+  {
+      "ProducerName": "Foreign Cask",
+      "InputIdentifier": "Mesona",
+      "InputStack": 1,
+      "MinutesUntilReady": 600,
+      "OutputIdentifier": "Grass Jelly",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["bubbles"],
+  },
 ]

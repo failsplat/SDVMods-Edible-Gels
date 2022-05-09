@@ -1,0 +1,49 @@
+{
+    "Name": "Mesona",
+    "Description": "A relative of mint, with a strange sweet herbal smell akin to tea or licorice. Used to make grass jelly.",
+    "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
+    "Edibility": 8,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Krobus", "Caroline"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Vincent", "Jas",],
+    },
+    "Recipe": null,
+  "NameLocalization": {
+    "default": "Mesona",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    "zh": "仙草"
+  },
+  "DescriptionLocalization": {
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": ""
+  },
+    "ContextTags": [
+        "season_winter",
+        "color_green",
+        "herb_item",
+    ],
+}

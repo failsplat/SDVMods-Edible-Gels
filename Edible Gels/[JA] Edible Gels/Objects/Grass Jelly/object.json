@@ -1,6 +1,6 @@
 {
-    "Name": "Aiyu Jelly",
-    "Description": "A soft pale-yellow jelly. Not much flavor on its own, but refreshing to eat.",
+    "Name": "Grass Jelly",
+    "Description": "A soft brown jelly, with a strange herbal scent similar to tea or licorice.",
     "Category": "ArtisanGoods",
     "Edibility": 5,
     "Price": 150,
@@ -10,15 +10,13 @@
     "EdibleBuffs": null,
     "GiftTastes":
     {
-        "Love": [],
-        "Like": [],
-        "Neutral": [],
-        "Dislike": [],
-        "Hate": [],
+        "Like": ["Krobus", "Caroline"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Vincent", "Jas",],
     },
     "NameLocalization":
     {
-        "default":"Aiyu Jelly",
+        "default":"Grass Jelly",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -47,7 +45,7 @@
     },
     "ContextTags":
     [
-    "color_gold",
+    "color_brown",
     "edible_gel_item",
     ]
 }

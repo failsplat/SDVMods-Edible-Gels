@@ -45,8 +45,8 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_brown",
+    "ContextTags": [
+      "color_brown",
+      "season_fall",
     ]
 }
