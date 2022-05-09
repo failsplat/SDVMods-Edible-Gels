@@ -7,13 +7,15 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Nata de Piña** (*Glass Jar*, Pineapple)
 - **Aiyu Fig Husk** (crop) -> **Aiyu Jelly** (*Foreign Cask*)
 - **Aiyu Lemonade** (Cooking, Aiyu Jelly + Lemon + Honey)
-### Ideas/To Do
 - **Mesona**/仙草 (crop) -> **Grass Jelly** (*Foreign Cask*)
+### Ideas/To Do
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)
 - **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
-- **Gelatin** (*Extruder*, Slime or Bones?) -> **Fruit Gelatin** (*Extruder*, Gelatin + Fruit)
+- **Gelatin** (*Extruder*, Slime or Bones?) 
+- **Fruit Gummies** (*Extruder*, Gelatin + Fruit)
+- **Jelly Shot** (*Infuser*, Gelatin + Fruit)
 - **Aspic** (Cooking, Gelatin + *Meat* + Other stuff?)
 - **Red Algae** (Forage on Beach, Island) -> **Agar** (*Extruder*)
 - **Almond Jelly** (Cooking, Agar + Sugar + *Almond*)
