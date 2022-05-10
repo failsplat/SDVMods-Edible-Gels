@@ -11,19 +11,23 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Gelatin** (*Extruder*, Slime x12)
 - **Fruit Gummies** (*Extruder*, Gelatin + Fruit)
 - **Red Algae** (Forage on Beach, Island) -> **Agar** (*Extruder*)
+- **Rainbow Jelly** (Cooking, Gelatin + Sugar + Strawberry + Orange + Lemon + Lime + Blueberry + Grape)
+- **Fruit Gelatin** (Cooking, Gelatin + Sugar + Fruit)
 ### Ideas/To Do
 - **Almond Jelly** (Cooking, Agar + Sugar + *Almond*)
 - **Coconut Pandan Jelly** (Cooking, Agar + Sugar + Coconut + *Pandan Leaves*)
+- **Mango Coconut Jelly** (Cooking, Agar + Sugar + Mango + Coconut)
 - **Anmitsu** (Cooking, Agar + *Adzuki Beans* + Fruit)
 - **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
 - **Coffee Jelly** (Cooking, Agar + Sugar + Coffee)
-- **Rainbow Gelatin** (Cooking, Gelatin + Cherry + Orange + Lemon + Lime + Blueberry + Grape)
+- **Blancmange** (Cooking, Gelatin + Milk + Almond + Sugar)
+- **Aspic** (Cooking, Gelatin + *Meat*)
+- **Seafood Aspic** (Cooking, Gelatin + Fish)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)
 - **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
-- **Aspic** (Cooking, Gelatin + *Meat*)
-- **Seafood Aspic** (Cooking, Gelatin + Fish)
+
 - **Sago Palm** (Crop) -> **Sago Pearls** (*Extruder*)
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).

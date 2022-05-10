@@ -1,0 +1,72 @@
+{
+    "Name": "Fruit Gelatin",
+    "Description": "Jiggly and fruity.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "Price": 400,
+    "IsColored": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": -79,
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Gelatin",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 200,
+    },
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Love": ["Vincent", "Sandy"],
+        "Like": ["Demetrius", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Shane", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", 
+        "Leo", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Wizard", "Abigail", "Haley", "Jas", "Vincent", "Krobus"],
+        "Dislike": ["Willy"],
+    },
+    "NameLocalization":
+    {
+        "default":"Fruit Gelatin",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags":
+    [
+    "edible_gel_item",
+    "color_orange",
+    ]
+}
