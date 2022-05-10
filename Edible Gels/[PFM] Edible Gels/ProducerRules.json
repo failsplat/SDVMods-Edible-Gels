@@ -60,14 +60,14 @@
       "OutputName": "{inputName} Gummies",
       "OutputStack": 1,
       "InputPriceBased": true,
-      "OutputPriceIncrement": 150,
-      "OutputPriceMultiplier": 0.75,
+      "OutputPriceIncrement": 175,
+      "OutputPriceMultiplier": 0.9,
       "Sounds": ["coin"],
       "OutputColorConfig": {
         "Type": "ObjectDyeColor",
         "Red": 255,
-        "Green": 150,
-        "Blue": 150,
+        "Green": 245,
+        "Blue": 215,
       },
   },
 ]
