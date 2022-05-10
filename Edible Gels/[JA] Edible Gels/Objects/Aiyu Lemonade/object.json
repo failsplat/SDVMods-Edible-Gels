@@ -66,5 +66,6 @@
     "ContextTags":
     [
     "color_yellow",
-    ]
+    ],
+    "EnableWithMod" : "ppja.moretrees",
 }
