@@ -11,12 +11,13 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Gelatin** (*Extruder*, Slime x12)
 - **Fruit Gummies** (*Extruder*, Gelatin + Fruit)
 - **Red Algae** (Forage on Beach, Island) -> **Agar** (*Extruder*)
+### Ideas/To Do
 - **Almond Jelly** (Cooking, Agar + Sugar + *Almond*)
 - **Coconut Pandan Jelly** (Cooking, Agar + Sugar + Coconut + *Pandan Leaves*)
 - **Anmitsu** (Cooking, Agar + *Adzuki Beans* + Fruit)
 - **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
--
-### Ideas/To Do
+- **Coffee Jelly** (Cooking, Agar + Sugar + Coffee)
+- **Rainbow Gelatin** (Cooking, Gelatin + Cherry + Orange + Lemon + Lime + Blueberry + Grape)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)
