@@ -5,7 +5,6 @@
     "Edibility": 33,
     "Price": 645,
     "IsColored": false,
-    "Recipe": null,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,
     "GiftTastes": {
@@ -31,7 +30,7 @@
           },
         ],
         "CanPurchase": true,
-        "PurchaseFrom": "Gus",
+        "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
     "NameLocalization":

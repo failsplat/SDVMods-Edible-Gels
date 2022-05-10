@@ -1,0 +1,18 @@
+{
+  "Name": "[FTM] Edible Gels",
+  "Author": "Failsplat",
+  "Version": "0.3.0",
+  "Description": "Forage locations for 'Edible Gels' red algae.",
+  "UniqueID": "Failsplat.GelFoodsFTM",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.8"
+   },
+  "Dependencies": [
+    {
+      "UniqueID": "Failsplat.GelFoodsJA",
+      "IsRequired": true,
+    },
+  ]
+}

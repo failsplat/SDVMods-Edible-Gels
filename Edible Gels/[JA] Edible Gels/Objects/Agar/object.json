@@ -1,9 +1,9 @@
 {
-    "Name": "Gelatin",
-    "Description": "Sheets of clear, high-quality gelatin.",
+    "Name": "Agar",
+    "Description": "Strands of clear dried agar, made from red algae.",
     "Category": "ArtisanGoods",
     "Edibility": -300,
-    "Price": 100,
+    "Price": 150,
     "IsColored": false,
     "Recipe": null,
     "EdibleIsDrink": false,
@@ -11,14 +11,14 @@
     "GiftTastes":
     {
         "Love": [],
-        "Like": ["Gus"],
+        "Like": ["Gus", "Demetrius"],
         "Neutral": [],
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
         "Hate": [],
     },
     "NameLocalization":
     {
-        "default":"Gelatin",
+        "default":"Agar",
         //"es": "",
         //"ko": "",
         //"de": "",

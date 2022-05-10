@@ -1,0 +1,63 @@
+{
+  "ForageSpawnEnabled": true,
+  "Forage_Spawn_Settings": {
+    "Areas": [
+      {
+        "SpringItemIndex": ["Red Algae"],
+        "SummerItemIndex": ["Red Algae"],
+        "FallItemIndex": ["Red Algae"],
+        "WinterItemIndex": ["Red Algae"],
+        "MapName": "Beach",
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 2,
+        "IncludeTerrainTypes": [ "All" ],
+        "ExcludeTerrainTypes": [],
+        "StrictTileChecking": "High",
+      },
+      {
+        "SpringItemIndex": ["Red Algae"],
+        "SummerItemIndex": ["Red Algae"],
+        "FallItemIndex": ["Red Algae"],
+        "WinterItemIndex": ["Red Algae"],
+        "MapName": "IslandSouthEast",
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 2,
+        "IncludeTerrainTypes": [ "All" ],
+        "ExcludeTerrainTypes": [],
+        "StrictTileChecking": "High",
+      },
+      {
+        "SpringItemIndex": ["Red Algae"],
+        "SummerItemIndex": ["Red Algae"],
+        "FallItemIndex": ["Red Algae"],
+        "WinterItemIndex": ["Red Algae"],
+        "MapName": "IslandWest",
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 2,
+        "IncludeTerrainTypes": [ "All" ],
+        "ExcludeTerrainTypes": [],
+        "StrictTileChecking": "High",
+      },
+      {
+        "SpringItemIndex": ["Red Algae"],
+        "SummerItemIndex": ["Red Algae"],
+        "FallItemIndex": ["Red Algae"],
+        "WinterItemIndex": ["Red Algae"],
+        "MapName": "IslandFarmCave",
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 2,
+        "IncludeTerrainTypes": [ "All" ],
+        "ExcludeTerrainTypes": [],
+        "StrictTileChecking": "High",
+      },
+    ],
+    "File_Conditions": {
+      "FarmTypes": [],
+      "FarmerNames": [],
+      "SaveFileNames": [],
+      "OtherMods": {
+        "Failsplat.GelFoodsJA": true
+      }
+    }
+  }
+}

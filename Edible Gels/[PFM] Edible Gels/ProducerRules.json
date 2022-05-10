@@ -70,4 +70,14 @@
         "Blue": 215,
       },
   },
+  {
+      "ProducerName": "Extruder",
+      "InputIdentifier": "Red Algae",
+      "InputStack": 1,
+      "MinutesUntilReady": 1200,
+      "OutputIdentifier": "Agar",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["bubbles"],
+  },
 ]
