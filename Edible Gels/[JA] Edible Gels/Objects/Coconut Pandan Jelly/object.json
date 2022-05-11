@@ -1,0 +1,76 @@
+{
+    "Name": "Coconut Pandan Jelly",
+    "Description": "Delicate layers of agar, with a dreamy combination of coconut and pandan flavors.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 500,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Haley", "Sandy", "Leo"],
+        "Like": ["Demetrius", "Elliot", "Harvey", "Jas", "Jodi", "Kent", "Leah",
+        "Lewis", "Pam", "Robin", "Shane", "Vincent"],
+        "Dislike": ["Abigail"],
+    },
+    "EnableWithMod" : "BonsterTrees",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": 88,
+              "Count": 1,
+          },
+          {
+              "Object": "Pandan",
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Agar",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 500,
+    },
+    "NameLocalization":
+    {
+        "default":"Coconut Pandan Jelly",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags":
+    [
+    "color_green",
+    "edible_gel_item",
+    ],
+}

@@ -61,7 +61,7 @@
       "OutputStack": 1,
       "InputPriceBased": true,
       "OutputPriceIncrement": 175,
-      "OutputPriceMultiplier": 0.9,
+      "OutputPriceMultiplier": 1.0,
       "Sounds": ["coin"],
       "OutputColorConfig": {
         "Type": "ObjectDyeColor",
