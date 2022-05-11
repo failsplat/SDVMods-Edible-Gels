@@ -16,13 +16,12 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Almond Jelly** (Cooking, Agar + Sugar + *Almond*)
 - **Coconut Pandan Jelly** (Cooking, Agar + Sugar + Coconut + *Pandan Leaves*)
 - **Mango Coconut Jelly** (Cooking, Agar + Sugar + Mango + Coconut)
-### Ideas/To Do
-- **Anmitsu** (Cooking, Agar + *Adzuki Beans* + Fruit)
-- **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
-- **Coffee Jelly** (Cooking, Agar + Sugar + Coffee)
-- **Blancmange** (Cooking, Gelatin + Milk + Almond + Sugar)
 - **Aspic** (Cooking, Gelatin + *Meat*)
 - **Seafood Aspic** (Cooking, Gelatin + Fish)
+### Ideas/To Do
+- **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
+- **Coffee Jelly** (Cooking, Gelatin + Sugar + Coffee)
+- **Blancmange** (Cooking, Gelatin + Milk + Almond + Sugar)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)

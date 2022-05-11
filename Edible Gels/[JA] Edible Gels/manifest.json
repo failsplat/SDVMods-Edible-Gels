@@ -1,7 +1,7 @@
 {
     "Name": "[JA] Edible Gels",
     "Author": "Failsplat",
-    "Version": "0.3.2",
+    "Version": "0.3.3",
     "Description": "Adds various edible slimes and gels that can be produced from crops or forage.",
     "UniqueID": "Failsplat.GelFoodsJA",
     "UpdateKeys": [],
@@ -15,6 +15,10 @@
       },
       {
         "UniqueID": "BonsterTrees",
+        "IsRequired": false,
+      },
+      {
+        "UniqueID": "paradigmnomad.freshmeat",
         "IsRequired": false,
       },
     ]
