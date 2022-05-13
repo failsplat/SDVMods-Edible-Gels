@@ -39,6 +39,12 @@
         "PurchaseFrom": "Krobus",
         "PurchasePrice": 300,
     },
+    "ContextTags":
+    [
+      "color_green",
+      "universal_dislike",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Seafood Aspic",
@@ -68,9 +74,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_white",
-    "universal_dislike",
-    ]
 }

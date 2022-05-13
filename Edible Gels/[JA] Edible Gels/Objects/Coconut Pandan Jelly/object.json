@@ -39,6 +39,11 @@
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
+    "ContextTags":
+    [
+      "color_green",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Coconut Pandan Jelly",
@@ -68,9 +73,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_green",
-    "edible_gel_item",
-    ],
 }

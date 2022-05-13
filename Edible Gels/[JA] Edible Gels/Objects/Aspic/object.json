@@ -7,7 +7,6 @@
     "IsColored": false,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "EnableWithMod" : "paradigmnomad.freshmeat",
     "GiftTastes":
     {
         "Love": [],
@@ -16,6 +15,7 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", 
         "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Leah", "Gus"],
     },
+    "EnableWithMod" : "paradigmnomad.freshmeat",
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": 
@@ -33,6 +33,12 @@
         "PurchaseFrom": "Krobus",
         "PurchasePrice": 300,
     },
+    "ContextTags":
+    [
+      "color_brown",
+      "edible_gel_item",
+      "universal_dislike",
+    ],
     "NameLocalization":
     {
         "default":"Aspic",
@@ -62,9 +68,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_white",
-    "universal_dislike",
-    ]
 }

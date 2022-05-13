@@ -18,7 +18,6 @@
         "Love": ["Harvey"],
         "Hate": ["Leo", "Jas", "Vincent"]
     },
-    //"EnableWithMod" : "BonsterTrees",
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": 
@@ -44,6 +43,11 @@
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
+    "ContextTags":
+    [
+      "color_brown",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Coffee Jelly",
@@ -73,9 +77,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_dark_red",
-    "edible_gel_item",
-    ],
 }

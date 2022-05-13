@@ -16,6 +16,12 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
         "Hate": [],
     },
+    "ContextTags":
+    [
+    "color_white",
+    "gelling_agent",
+    "universal_dislike",
+    ],
     "NameLocalization":
     {
         "default":"Agar",
@@ -45,10 +51,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_white",
-    "gelling_agent",
-    "universal_dislike",
-    ]
 }

@@ -14,6 +14,11 @@
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Dwarf", "Willy"],
     },
+    "ContextTags":
+    [
+      "color_brown",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Grass Jelly",
@@ -43,9 +48,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_brown",
-    "edible_gel_item",
-    ]
 }

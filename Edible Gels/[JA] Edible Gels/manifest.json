@@ -1,7 +1,7 @@
 {
     "Name": "[JA] Edible Gels",
     "Author": "Failsplat",
-    "Version": "0.3.4",
+    "Version": "0.3.5",
     "Description": "Adds various edible slimes and gels that can be produced from crops or forage.",
     "UniqueID": "Failsplat.GelFoodsJA",
     "UpdateKeys": [],
@@ -9,6 +9,10 @@
         "UniqueID": "spacechase0.JsonAssets"
     },
     "Dependencies": [
+      {
+        "UniqueID": "ppja.fruitsandveggies",
+        "IsRequired": false,
+      },
       {
         "UniqueID": "ppja.moretrees",
         "IsRequired": false,
@@ -18,8 +22,18 @@
         "IsRequired": false,
       },
       {
+        "UniqueID": "BFV.FruitVeggiePart2",
+        "IsRequired": false,
+      },
+      {
+        "UniqueID": "Hadi.FrozenTreatsJA",
+        "IsRequired": false,
+      },
+      {
         "UniqueID": "paradigmnomad.freshmeat",
         "IsRequired": false,
       },
+      
+      
     ]
 }

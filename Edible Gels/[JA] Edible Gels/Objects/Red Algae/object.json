@@ -12,6 +12,13 @@
     {
         "Hate": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
     },
+    "ContextTags":
+    [
+      "color_red",
+      "fish_nonfish",
+      "algae_item",
+      "universal_hate",
+    ],
     "NameLocalization":
     {
         "default":"Red Algae",
@@ -41,11 +48,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_red",
-    "fish_nonfish",
-    "algae_item",
-    "universal_hate",
-    ]
 }

@@ -1,5 +1,17 @@
 # Edible Gels (Mod for Stardew Valley)
- A content pack mod for Stardew Valley, containing a variety of edible gels and jellies. The submods are content packs for JsonAssets, ProducerFrameworkMod and FarmTypeManager. Some of the content uses [Artisan Valley machines](https://www.nexusmods.com/stardewvalley/mods/1926) or ingredients from [PPJA Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) and [Fresh Meat](https://www.nexusmods.com/stardewvalley/mods/1721).
+ A content pack mod for Stardew Valley, containing a variety of edible gels and jellies.
+## Required Mods
+- Artisan Valley
+- Producer Framework Mod
+- Farm Type Manager
+### Optional Mods
+- PPJA Fruits and Veggies
+- PPJA More Trees
+- Bonster's Trees
+- Bonster's Rare Crops
+- Shaved Ice and Frozen Treats
+- Fresh Meat
+
 ## Contents
 Items added/to be added by this mod in **BOLD**. Machines or items from other mods are in *Italics*.
 ### Currently Written
@@ -21,14 +33,15 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
 - **Green Tea Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
 - **Coffee Jelly** (Cooking, Gelatin + Sugar + Coffee + Milk)
+- **Blancmange** (Cooking, Gelatin + Milk+ Raisin + Sugar)
 ### Ideas/To Do
-- **Blancmange** (Cooking, Gelatin + Milk + Almond + Sugar)
+- **Grass Jelly Shaved Ice** (*Shaved Ice Machine*, Ice + Grass Jelly)
+- **Special Tsua-Bing** (*Shaved Ice Machine*, Ice + Aiyu Jelly + Grass Jelly + Milk + Sugar + *Tapioca* + *Adzuki Beans* + *Peanut* + *Mung Bean*)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)
 - **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
 - **Sago Palm** (Crop) -> **Sago Pearls** (*Extruder*)
-
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.

@@ -16,6 +16,11 @@
         "Dislike": [],
         "Hate": [],
     },
+    "ContextTags":
+    [
+      "color_gold",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Aiyu Jelly",
@@ -45,9 +50,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_gold",
-    "edible_gel_item",
-    ]
 }

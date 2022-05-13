@@ -1,16 +1,27 @@
 {
-    "Name": "Fruit Gelatin",
-    "Description": "Jiggly and fruity.",
+    "Name": "Blancmange",
+    "Description": "Creamy-white gelatin with milk and raisins.",
     "Category": "Cooking",
-    "Edibility": 5,
-    "Price": 400,
+    "Edibility": 25,
+    "Price": 500,
     "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Gus", "Krobus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Willy"],
+    },
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": 
         [
           {
-              "Object": -79,
+              "Object": "Raisins",
+              "Count": 1,
+          },
+          {
+              "Object": 184,
               "Count": 1,
           },
           {
@@ -24,25 +35,16 @@
         ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
-        "PurchasePrice": 200,
-    },
-    "EdibleIsDrink": false,
-    "EdibleBuffs": null,
-    "GiftTastes":
-    {
-        "Love": ["Vincent", "Sandy"],
-        "Like": ["Demetrius", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Shane", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", 
-        "Leo", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Wizard", "Abigail", "Haley", "Jas", "Vincent", "Krobus"],
-        "Dislike": ["Willy"],
+        "PurchasePrice": 500,
     },
     "ContextTags":
     [
+      "color_white",
       "edible_gel_item",
-      "color_orange",
     ],
     "NameLocalization":
     {
-        "default":"Fruit Gelatin",
+        "default":"Blancmange",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -62,7 +64,7 @@
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",

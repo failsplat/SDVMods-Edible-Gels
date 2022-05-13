@@ -13,6 +13,11 @@
         "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
     },
     "Recipe": null,
+    "ContextTags": [
+      "season_winter",
+      "color_green",
+      "herb_item",
+    ],
   "NameLocalization": {
     "default": "Mesona",
     //"es": "",
@@ -40,9 +45,4 @@
     //"tr": "",
     //"zh": ""
   },
-    "ContextTags": [
-        "season_winter",
-        "color_green",
-        "herb_item",
-    ],
 }

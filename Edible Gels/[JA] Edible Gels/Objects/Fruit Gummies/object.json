@@ -5,9 +5,13 @@
     "Edibility": 15,
     "Price": 175,
     "IsColored": true,
-    "Recipe": null,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
+    "Recipe": null,
+    "ContextTags":
+    [
+      "universal_like",
+    ],
     "GiftTastes":
     {
         "Love": [],
@@ -45,8 +49,5 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-      "universal_like",
-    ]
+
 }

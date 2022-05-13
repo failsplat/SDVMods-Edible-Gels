@@ -17,6 +17,11 @@
         "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
         "Hate": [],
     },
+    "ContextTags":
+    [
+      "edible_gel_item",
+      "color_gold",
+    ],
     "NameLocalization":
     {
         "default":"Nata de Piña",
@@ -46,9 +51,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "edible_gel_item",
-    "color_gold",
-    ]
 }

@@ -12,6 +12,7 @@
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Krobus", "Willy"],
     },
+    "EnableWithMod" : "ppja.moretrees",
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": 
@@ -33,6 +34,10 @@
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
+    "ContextTags":
+    [
+      "color_yellow",
+    ],
     "NameLocalization":
     {
         "default":"Aiyu Lemonade",
@@ -62,9 +67,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_yellow",
-    ],
-    "EnableWithMod" : "ppja.moretrees",
 }

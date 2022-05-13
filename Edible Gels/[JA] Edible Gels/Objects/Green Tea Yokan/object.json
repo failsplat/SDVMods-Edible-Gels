@@ -33,6 +33,11 @@
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
+    "ContextTags":
+    [
+      "color_dark_green",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Green Tea Yokan",
@@ -62,9 +67,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_dark_red",
-    "edible_gel_item",
-    ],
 }

@@ -13,7 +13,7 @@
         "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
         "Hate": ["Lewis"]
     },
-    //"EnableWithMod" : "BonsterTrees",
+    "EnableWithMod" : "ppja.fruitsandveggies",
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": 
@@ -35,6 +35,11 @@
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 500,
     },
+    "ContextTags":
+    [
+      "color_dark_red",
+      "edible_gel_item",
+    ],
     "NameLocalization":
     {
         "default":"Red Bean Yokan",
@@ -64,9 +69,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "color_dark_red",
-    "edible_gel_item",
-    ],
 }

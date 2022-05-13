@@ -16,6 +16,11 @@
         "Dislike": ["Abigail"],
         "Hate": [],
     },
+    "ContextTags":
+    [
+      "edible_gel_item",
+      "color_white",
+    ],
     "NameLocalization":
     {
         "default":"Nata de Coco",
@@ -45,9 +50,4 @@
         //"tr": "",
         //"zh": "",
     },
-    "ContextTags":
-    [
-    "edible_gel_item",
-    "color_white",
-    ]
 }
