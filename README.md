@@ -18,16 +18,17 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Mango Coconut Jelly** (Cooking, Agar + Sugar + Mango + Coconut)
 - **Aspic** (Cooking, Gelatin + *Meat*)
 - **Seafood Aspic** (Cooking, Gelatin + Fish)
-### Ideas/To Do
 - **Red Bean Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
-- **Coffee Jelly** (Cooking, Gelatin + Sugar + Coffee)
+- **Green Tea Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
+- **Coffee Jelly** (Cooking, Gelatin + Sugar + Coffee + Milk)
+### Ideas/To Do
 - **Blancmange** (Cooking, Gelatin + Milk + Almond + Sugar)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)
 - **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
-
 - **Sago Palm** (Crop) -> **Sago Pearls** (*Extruder*)
+
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.

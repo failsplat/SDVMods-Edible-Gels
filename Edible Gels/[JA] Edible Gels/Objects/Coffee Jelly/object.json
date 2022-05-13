@@ -1,0 +1,81 @@
+{
+    "Name": "Coffee Jelly",
+    "Description": "A sweet jelly flavored with strong coffee and mellowed out with some milk. Eat this and you'll feel like jiggling too.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 500,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": {
+      "Farming": 0,
+      "Fishing": 0,
+      "Mining": 0,
+      "Luck": 1,
+      "Duration": 120,
+      "Speed": 1,
+    },
+    "GiftTastes": {
+        "Love": ["Harvey"],
+        "Hate": ["Leo", "Jas", "Vincent"]
+    },
+    //"EnableWithMod" : "BonsterTrees",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": 815,
+              "Count": 1,
+          },
+          {
+              "Object": 184,
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Gelatin",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 500,
+    },
+    "NameLocalization":
+    {
+        "default":"Coffee Jelly",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags":
+    [
+    "color_dark_red",
+    "edible_gel_item",
+    ],
+}
