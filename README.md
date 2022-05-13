@@ -34,9 +34,9 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Green Tea Yokan** (Cooking, Agar + Sugar + *Adzuki Beans*)
 - **Coffee Jelly** (Cooking, Gelatin + Sugar + Coffee + Milk)
 - **Blancmange** (Cooking, Gelatin + Milk+ Raisin + Sugar)
+- **Grass Jelly Shaved Ice** (*Shaved Ice Machine*, Ice + Grass Jelly + *Sugar Cane*)
+- **Special Tsua-Bing** (*Shaved Ice Machine*, Ice + Aiyu Jelly + Grass Jelly + Milk + *Sugar Cane* + *Tapioca* + *Adzuki Beans* + *Peanut* + *Mung Bean*)
 ### Ideas/To Do
-- **Grass Jelly Shaved Ice** (*Shaved Ice Machine*, Ice + Grass Jelly)
-- **Special Tsua-Bing** (*Shaved Ice Machine*, Ice + Aiyu Jelly + Grass Jelly + Milk + Sugar + *Tapioca* + *Adzuki Beans* + *Peanut* + *Mung Bean*)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
 - **Konjac** (crop) 
 - **Konjac Candy** (Extruder, Konjac + Fruit)

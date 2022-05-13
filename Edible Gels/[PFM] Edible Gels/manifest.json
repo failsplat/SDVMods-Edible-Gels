@@ -2,7 +2,7 @@
    "Name": "[PFM] Edible Gels",
    "Author": "Failsplat",
    "Description": "Machine rules for Edible Gels.",
-   "Version": "0.3.5",
+   "Version": "0.3.6",
    "UniqueID": "Failsplat.GelFoodsPFM",
      "UpdateKeys": [],
     "ContentPackFor": {
@@ -16,6 +16,10 @@
     {
       "UniqueID": "ppja.artisanvalleyPFM",
       "IsRequired": true,
+    },
+    {
+      "UniqueID": "Hadi.ShavedIce",
+      "IsRequired": false,
     },
   ]
 }
