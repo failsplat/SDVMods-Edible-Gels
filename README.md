@@ -13,8 +13,8 @@
 - Fresh Meat
 
 ## Contents
-Items added/to be added by this mod in **BOLD**. Machines or items from other mods are in *Italics*.
-### Currently Written
+### New Items
+Items added by this mod in **BOLD**. Machines or items from other mods are in *Italics*.
 - **Nata de Coco** (*Glass Jar*, Coconut)
 - **Nata de Piña** (*Glass Jar*, Pineapple)
 - **Aiyu Fig Husk** (crop) -> **Aiyu Jelly** (*Foreign Cask*)
@@ -37,11 +37,9 @@ Items added/to be added by this mod in **BOLD**. Machines or items from other mo
 - **Grass Jelly Shaved Ice** (*Shaved Ice Machine*, Ice + Grass Jelly + *Sugar Cane*)
 - **Special Tsua-Bing** (*Shaved Ice Machine*, Ice + Aiyu Jelly + Grass Jelly + Milk + *Sugar Cane* + *Tapioca* + *Adzuki Beans* + *Peanut* + *Mung Bean*)
 - **Arrowroot** (crop) -> **Arrowroot Noodles** (*Extruder*)
-### Ideas/To Do
-- **Konjac** (crop) 
-- **Konjac Candy** (Extruder, Konjac + Fruit)
-- **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
-- **Sago Palm** (Crop) -> **Sago Pearls** (*Extruder*)
+- **Konjac** (crop) -> **Konnyaku Noodles** (Extruder, Konjac + Seaweed)
+### Future/Planned
+- **Sago Palm** (Crop) -> **Sago Pearls** (*Extruder*) (Waiting for SDV 1.6, to add as a lumber tree)
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
