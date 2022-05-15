@@ -1,6 +1,6 @@
 {
     "Name": "Aiyu Jelly",
-    "Description": "A soft pale-yellow jelly. Not much flavor on its own, but refreshing to eat.",
+    "Description": "A soft pale-yellow jelly. Not much flavor on its own, but refreshing.",
     "Category": "ArtisanGoods",
     "Edibility": 5,
     "Price": 150,
@@ -38,6 +38,7 @@
     },
     "DescriptionLocalization":
     {
+      "default":"A soft pale-yellow jelly. Not much flavor on its own, but refreshing.",
         //"es": "",
         //"ko": "",
         //"de": "",

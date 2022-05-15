@@ -56,12 +56,13 @@
     },
     "DescriptionLocalization":
     {
+      "default":"This chilled dish offers a wonderfully complex savoryness, if you can get over the texture. Most people can't.",
         //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it":"",
+        //"it":"",
         //"ja": "",
         //"pt": "",
         //"ru": "",

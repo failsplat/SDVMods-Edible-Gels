@@ -1,6 +1,6 @@
 {
     "Name": "Grass Jelly Shaved Ice",
-    "Description": "Shaved ice topped with grass jelly and brown sugar cane syrup.",
+    "Description": "Shaved ice topped with grass jelly and brown sugar syrup.",
     "Category": "ArtisanGoods",
     "Edibility": 48,
     "Price": 350,
@@ -37,6 +37,7 @@
     },
     "DescriptionLocalization":
     {
+      "default":"Shaved ice topped with grass jelly and brown sugar syrup.",
         //"es": "",
         //"ko": "",
         //"de": "",

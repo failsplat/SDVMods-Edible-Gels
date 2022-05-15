@@ -1,6 +1,6 @@
 {
     "Name": "Red Bean Yokan",
-    "Description": "Sweet red adzuki bean paste, solidified into agar.",
+    "Description": "Sweet red adzuki bean paste, solidified with agar.",
     "Category": "Cooking",
     "Edibility": 25,
     "Price": 500,
@@ -57,6 +57,7 @@
     },
     "DescriptionLocalization":
     {
+      "default":"Sweet red adzuki bean paste, solidified with agar.",
         //"es": "",
         //"ko": "",
         //"de": "",

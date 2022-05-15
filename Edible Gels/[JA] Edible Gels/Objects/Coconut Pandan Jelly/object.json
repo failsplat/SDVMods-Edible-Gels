@@ -1,6 +1,6 @@
 {
     "Name": "Coconut Pandan Jelly",
-    "Description": "Delicate layers of agar, with a dreamy combination of coconut and pandan flavors.",
+    "Description": "Delicate layers of agar, with a dreamy combination of coconut and pandan.",
     "Category": "Cooking",
     "Edibility": 25,
     "Price": 500,
@@ -61,6 +61,7 @@
     },
     "DescriptionLocalization":
     {
+        "default":"Delicate layers of agar, with a dreamy combination of coconut and pandan.",
         //"es": "",
         //"ko": "",
         //"de": "",

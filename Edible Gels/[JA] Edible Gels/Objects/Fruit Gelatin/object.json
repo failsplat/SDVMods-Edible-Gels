@@ -57,12 +57,13 @@
     },
     "DescriptionLocalization":
     {
+        "default":"Jiggly and fruity.",
         //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",

@@ -39,12 +39,13 @@
     },
     "DescriptionLocalization":
     {
+      "default":"A golden yellow gel made from fermented pineapple juice. Added to desserts to add a bit of texture and tangy tropical flavor.",
         //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",

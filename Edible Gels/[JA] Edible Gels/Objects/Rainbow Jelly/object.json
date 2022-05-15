@@ -83,12 +83,13 @@
     },
     "DescriptionLocalization":
     {
+      "default":"Each layer is a different color and a different flavor!",
         //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",

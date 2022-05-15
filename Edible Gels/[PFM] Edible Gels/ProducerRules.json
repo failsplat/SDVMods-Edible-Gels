@@ -58,6 +58,7 @@
       "MinutesUntilReady": 480,
       "OutputIdentifier": "Fruit Gummies",
       "OutputName": "{inputName} Gummies",
+      "OutputTranslationKey": "Extruder.FruitGummies",
       "OutputStack": 1,
       "InputPriceBased": true,
       "OutputPriceIncrement": 175,

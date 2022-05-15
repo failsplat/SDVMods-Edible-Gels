@@ -38,12 +38,13 @@
     },
     "DescriptionLocalization":
     {
+      "default":"A chewy gel made from fermented coconut water. Not much flavor on its own, but is used in desserts to add texture.",
         //"es": "",
         //"ko": "",
         //"de": "",
         //"fr": "",
         //"hu": "",
-        // "it": "",
+        //"it": "",
         //"ja": "",
         //"pt": "",
         //"ru": "",
