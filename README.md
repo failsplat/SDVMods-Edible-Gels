@@ -4,6 +4,7 @@
 - Artisan Valley
 - Producer Framework Mod
 - Farm Type Manager
+- Json Assets
 ### Optional Mods
 - PPJA Fruits and Veggies
 - PPJA More Trees
