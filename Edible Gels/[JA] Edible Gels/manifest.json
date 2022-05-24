@@ -1,10 +1,10 @@
 {
     "Name": "[JA] Edible Gels",
     "Author": "Failsplat",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "Adds various edible slimes and gels that can be produced from crops or forage.",
     "UniqueID": "Failsplat.GelFoodsJA",
-    "UpdateKeys": [],
+    "UpdateKeys": [ "Nexus:12064" ],
     "ContentPackFor": {
         "UniqueID": "spacechase0.JsonAssets"
     },
