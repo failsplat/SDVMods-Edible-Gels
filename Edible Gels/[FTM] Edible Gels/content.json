@@ -26,18 +26,6 @@
         "ExcludeTerrainTypes": [],
         "StrictTileChecking": "High",
       },
-      {
-        "SpringItemIndex": ["Red Algae"],
-        "SummerItemIndex": ["Red Algae"],
-        "FallItemIndex": ["Red Algae"],
-        "WinterItemIndex": ["Red Algae"],
-        "MapName": "IslandWest",
-        "MinimumSpawnsPerDay": 0,
-        "MaximumSpawnsPerDay": 2,
-        "IncludeTerrainTypes": [ "All" ],
-        "ExcludeTerrainTypes": [],
-        "StrictTileChecking": "High",
-      },
     ],
     "File_Conditions": {
       "FarmTypes": [],
