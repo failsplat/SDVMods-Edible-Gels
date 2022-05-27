@@ -1,0 +1,51 @@
+{
+    "Name": "Konjac (EG)",
+    "Description": "A starchy root used to produce a crunchy edible gel.",
+    "Category": "Vegetable",
+    "Edibility": 15,
+    "Price": 85,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "ContextTags":
+    [
+      "context_tag",
+      "color_sand",
+    ],
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "default":"Konjac",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"A starchy root used to produce a crunchy edible gel.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+
+}

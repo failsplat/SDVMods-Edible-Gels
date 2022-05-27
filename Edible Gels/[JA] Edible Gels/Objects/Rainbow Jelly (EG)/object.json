@@ -1,0 +1,99 @@
+{
+    "Name": "Rainbow Jelly (EG)",
+    "Description": "Each layer is a different color and a different flavor!",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "Price": 1200,
+    "IsColored": false,
+    "EnableWithMod" : "ppja.moretrees",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": 638,
+              "Count": 1,
+          },
+          {
+              "Object": 635,
+              "Count": 1,
+          },
+          {
+              "Object": "Lemon",
+              "Count": 1,
+          },
+          {
+              "Object": "Lime",
+              "Count": 1,
+          },
+          {
+              "Object": 258,
+              "Count": 1,
+          },
+          {
+              "Object": 398,
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Gelatin (EG)",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 400,
+    },
+    "EdibleIsDrink": false,
+    "EdibleBuffs": {
+      "Farming": 3,
+      "Fishing": 1,
+      "Mining": 1,
+      "Luck": 1,
+      "Duration": 360,
+      "Foraging": 1,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Vincent", "Sandy", "Demetrius", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Shane", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", 
+        "Leo", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Wizard", "Abigail", "Haley", "Jas", "Vincent", "Krobus", "Willy"],
+    },
+    "ContextTags":
+    [
+      "edible_gel_item",
+      "color_iridium",
+    ],
+    "NameLocalization":
+    {
+        "default":"Rainbow Jelly",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"Each layer is a different color and a different flavor!",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

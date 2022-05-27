@@ -1,0 +1,71 @@
+{
+    "Name": "Green Tea Yokan (EG)",
+    "Description": "Agar flavored with green tea.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 500,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Caroline", "Lewis"],
+        "Hate": ["Jas", "Vincent"]
+    },
+    //"EnableWithMod" : "BonsterTrees",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": 815,
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Agar (EG)",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 500,
+    },
+    "ContextTags":
+    [
+      "color_dark_green",
+      "edible_gel_item",
+    ],
+    "NameLocalization":
+    {
+        "default":"Green Tea Yokan",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"Agar flavored with green tea.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

@@ -1,0 +1,55 @@
+{
+    "Name": "Agar (EG)",
+    "Description": "Strands of clear dried agar, made from red algae.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": ["Gus", "Demetrius"],
+        "Neutral": [],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
+        "Hate": [],
+    },
+    "ContextTags":
+    [
+    "color_white",
+    "gelling_agent",
+    "universal_dislike",
+    ],
+    "NameLocalization":
+    {
+        "default":"Agar",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"Strands of clear dried agar, made from red algae.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

@@ -3,10 +3,10 @@
   "Forage_Spawn_Settings": {
     "Areas": [
       {
-        "SpringItemIndex": ["Red Algae"],
-        "SummerItemIndex": ["Red Algae"],
-        "FallItemIndex": ["Red Algae"],
-        "WinterItemIndex": ["Red Algae"],
+        "SpringItemIndex": ["Red Algae (EG)"],
+        "SummerItemIndex": ["Red Algae (EG)"],
+        "FallItemIndex": ["Red Algae (EG)"],
+        "WinterItemIndex": ["Red Algae (EG)"],
         "MapName": "Beach",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 2,
@@ -15,10 +15,10 @@
         "StrictTileChecking": "High",
       },
       {
-        "SpringItemIndex": ["Red Algae"],
-        "SummerItemIndex": ["Red Algae"],
-        "FallItemIndex": ["Red Algae"],
-        "WinterItemIndex": ["Red Algae"],
+        "SpringItemIndex": ["Red Algae (EG)"],
+        "SummerItemIndex": ["Red Algae (EG)"],
+        "FallItemIndex": ["Red Algae (EG)"],
+        "WinterItemIndex": ["Red Algae (EG)"],
         "MapName": "IslandSouthEast",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 2,

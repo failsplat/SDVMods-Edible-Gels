@@ -1,0 +1,53 @@
+{
+    "Name": "Aiyu Fig Husk (EG)",
+    "Description": "A seed-covered husk of a dried fig-like fruit. Inedible as it is, but releases Aiyu Jelly when soaked in water.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
+        "Hate": [],
+    },
+    "ContextTags": [
+      "color_brown",
+      "season_fall",
+    ],
+    "NameLocalization":
+    {
+        "default":"Aiyu Fig Husk",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"A seed-covered husk of a dried fig-like fruit. Inedible as it is, but releases Aiyu Jelly when soaked in water.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

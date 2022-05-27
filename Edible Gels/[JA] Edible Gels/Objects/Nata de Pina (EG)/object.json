@@ -1,0 +1,55 @@
+{
+    "Name": "Nata de Pina (EG)",
+    "Description": "A golden yellow gel made from fermented pineapple juice. Added to desserts to add a bit of texture and tangy tropical flavor.",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "Price": 450,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Love": ["Elliot", "Sandy"],
+        "Like": ["Demetrius", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", 
+        "Leo", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Hate": [],
+    },
+    "ContextTags":
+    [
+      "edible_gel_item",
+      "color_gold",
+    ],
+    "NameLocalization":
+    {
+        "default":"Nata de Piña",
+        "es": "Nata de Piña",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"A golden yellow gel made from fermented pineapple juice. Added to desserts to add a bit of texture and tangy tropical flavor.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

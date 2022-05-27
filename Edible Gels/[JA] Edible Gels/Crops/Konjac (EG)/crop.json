@@ -1,0 +1,53 @@
+{
+    "Name": "Konjac (EG)", 
+    "Product": "Konjac (EG)", 
+    "SeedName": "Konjac Corm (EG)", 
+    "SeedDescription": "Plant these in fall. Grows mature tubers in 8 days.", 
+    "Type": "Vegetable", 
+    "CropType": "Normal", 
+    "Seasons": ["fall"], 
+    "Phases": [2, 2, 2, 2], 
+    "RegrowthPhase": -1, 
+    "HarvestWithScythe": false, 
+    "TrellisCrop": false, 
+    "Colors": null,
+    "Bonus": 
+    {
+        "MinimumPerHarvest": 1, 
+        "MaximumPerHarvest": 2, 
+        "MaxIncreasePerFarmLevel": 5, 
+        "ExtraChance": 0.0, 
+    },
+    "SeedPurchaseRequirements": ["y 2"], 
+    "SeedPurchaseFrom": "Pierre", 
+    "SeedPurchasePrice": 50, 
+    "SeedNameLocalization":
+    {
+        "default": "Konjac Corm",
+        //"es": "", 
+        //"ko": "", 
+        //"de": "", 
+        //"fr": "", 
+        //"hu": "", 
+        //"it": "", 
+        //"ja": "", 
+        //"pt": "", 
+        //"ru": "", 
+        //"tr": "", 
+        //"zh": "", 
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "", 
+        //"ko": "", 
+        //"de": "", 
+        //"fr": "", 
+        //"hu": "", 
+        //"it": "", 
+        //"ja": "", 
+        //"pt": "", 
+        //"ru": "", 
+        //"tr": "", 
+        //"zh": "", 
+    }
+}

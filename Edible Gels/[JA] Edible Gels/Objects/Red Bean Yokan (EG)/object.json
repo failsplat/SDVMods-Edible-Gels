@@ -1,0 +1,73 @@
+{
+    "Name": "Red Bean Yokan (EG)",
+    "Description": "Sweet red adzuki bean paste, solidified with agar.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 500,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Harvey"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
+        "Hate": ["Lewis"]
+    },
+    "EnableWithMod" : "ppja.fruitsandveggies",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": "Adzuki Bean",
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Agar (EG)",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 500,
+    },
+    "ContextTags":
+    [
+      "color_dark_red",
+      "edible_gel_item",
+    ],
+    "NameLocalization":
+    {
+        "default":"Red Bean Yokan",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"Sweet red adzuki bean paste, solidified with agar.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

@@ -1,0 +1,77 @@
+{
+    "Name": "Mango Coconut Jelly (EG)",
+    "Description": "Delicate layers of agar, with a vibrant combination of coconut and mango.",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "Price": 500,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes": {
+        "Love": ["Sandy", "Leo"],
+        "Like": ["Demetrius", "Elliot", "Harvey",  "Jodi", "Kent", "Leah", "Linus",
+        "Pam", "Robin", "Shane",],
+        "Dislike": ["Abigail", "Haley", "Jas",  "Vincent"],
+    },
+    //"EnableWithMod" : "BonsterTrees",
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": 
+        [
+          {
+              "Object": 88,
+              "Count": 1,
+          },
+          {
+              "Object": 834,
+              "Count": 1,
+          },
+          {
+              "Object": 245,
+              "Count": 1,
+          },
+          {
+              "Object": "Agar (EG)",
+              "Count": 1,
+          },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 500,
+    },
+    "ContextTags":
+    [
+      "color_gold",
+      "edible_gel_item",
+    ],
+    "NameLocalization":
+    {
+        "default":"Mango Coconut Jelly",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default":"Delicate layers of agar, with a vibrant combination of coconut and mango.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

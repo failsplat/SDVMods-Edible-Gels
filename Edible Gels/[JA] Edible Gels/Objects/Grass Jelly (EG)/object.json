@@ -1,0 +1,52 @@
+{
+    "Name": "Grass Jelly (EG)",
+    "Description": "A soft brown jelly, with a strange herbal scent similar to tea or licorice.",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Dwarf", "Willy"],
+    },
+    "ContextTags":
+    [
+      "color_brown",
+      "edible_gel_item",
+    ],
+    "NameLocalization":
+    {
+        "default":"Grass Jelly",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default":"A soft brown jelly, with a strange herbal scent similar to tea or licorice.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}
